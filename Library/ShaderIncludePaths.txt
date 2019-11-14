@@ -1,0 +1,4 @@
+E:\newproj_u3d\aa-Replica-master\aa Replica\Library\PackageCache\com.unity.postprocessing@2.0.9-preview
+E:\newproj_u3d\aa-Replica-master\aa Replica\Library\PackageCache\com.unity.render-pipelines.core@3.0.0-preview
+E:\newproj_u3d\aa-Replica-master\aa Replica\Library\PackageCache\com.unity.render-pipelines.lightweight@3.0.0-preview
+E:\newproj_u3d\aa-Replica-master\aa Replica\Library\PackageCache\com.unity.shadergraph@3.0.0-preview

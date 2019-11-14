@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12386, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Keys:
+  - __PanelContainer__rootVisualContainer__015cc5918006b8240810b3a6c68185ba__MaterialGraphView__UnityEditor.Experimental.UIElements.GraphView.GraphView+PersistedViewTransform
+  - __PanelContainer__rootVisualContainer__015cc5918006b8240810b3a6c68185ba__MaterialGraphView__UnityEditor.Experimental.UIElements.GraphView.GraphView+PersistedSelection
+  m_Values:
+  - '{"position":{"x":1174.2294921875,"y":350.36187744140627,"z":0.0},"scale":{"x":0.6575162410736084,"y":0.6575162410736084,"z":1.0}}'
+  - '{"m_Version":211,"m_SelectedElementsArray":["60141fda-c6a8-43bf-a9f1-fd4b34254bde","e3c0a75b-674c-40bf-9758-8adf4d08ab08","b1bd0d7f-9854-4010-816d-177cb210c3e7","ea0eabf6-1a81-47bd-be55-f03352901e9a"]}'
